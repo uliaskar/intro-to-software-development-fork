@@ -34,5 +34,6 @@ jobs:
         run: |
           ruff format --check .
                 - name: Type checking
+      - name: Type checking
         run: |
-          mypy
+          mypy .

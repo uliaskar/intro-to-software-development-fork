@@ -1,5 +1,4 @@
 import pytest
-
 from important_code import (
     old_legacy_function_that_is_very_important_but_nobody_remember_how_it_works,
 )
